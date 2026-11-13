@@ -1,0 +1,25 @@
+# Universal .antigravityignore Starter Rules
+node_modules/
+vendor/
+.venv/
+venv/
+__pycache__/
+.next/
+.nuxt/
+dist/
+build/
+out/
+.turbo/
+.cache/
+coverage/
+.git/
+*.min.js
+*.min.css
+*.map
+*.log
+*.zip
+*.tar.gz
+*.mp4
+*.mov
+*.psd
+*.ai
